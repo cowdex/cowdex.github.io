@@ -6,7 +6,7 @@ tags: [methodology , owasptop10, bugbounty, pentesting, webapplication]     # TA
 math: true
 mermaid: true
 image:
-  path: /assets/image/web_roadmap.png
+  path: /assets/img/web-roadmap.png
   width: 800
   height: 500
   alt: Web Application Pentesting Roadmap.
