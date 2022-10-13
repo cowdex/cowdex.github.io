@@ -7,7 +7,7 @@ math: true
 mermaid: true
 ---
 Hello, to give something back to the infosec community I decided to start a new series on web application pen-testing. And this would be the first post.
-</br>
+<br>
 As a Noob, I was struggling to find an effective way to learn about web application vulnerabilities, once you start looking for some learning resources and methodologies you’ll be lost in between Youtube videos, tweets, and even medium articles. I tried to put it all together and create my methodology. Here are my steps :
 
 ![Desktop View](/assets/img/web-roadmap.png){: width="972" height="589" }
@@ -43,7 +43,7 @@ Keeping notes is one of the key aspects of penetration testing, I personally use
 
 ## Step 4 : Read writeups & Code, Play some CTFs
 After completing all the previous steps you should take a look at some real-world scenarios, read POCs and writeups on [**Medium**](https://medium.com/@infosecwriteups) or [**hackerone**](https://hackerone.com/hacktivity) because when you read a writeup about a particular vulnerability or something else, you are reading it from someone else experience. 
-</br>
+<br>
 You’ll sometimes come across the source code of an application you’re attacking. For example, you might be able to extract 
 JavaScript code from a web application, find 
 scripts stored on servers during the recon process or during a pentest you have access to source code  
