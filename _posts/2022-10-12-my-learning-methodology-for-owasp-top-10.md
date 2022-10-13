@@ -26,3 +26,12 @@ The book contains a wide range of techniques :
 - [x] Chain together multiple bugs for maximum impact and higher payouts
 - [x] Bypass protection mechanisms like input sanitization and blocklists to make your attacks succeed
 - [x] Automate tedious bug-hunting tasks with fuzzing and bash scripting
+
+## Step 3 : Get your hands dirty with labs
+Now it's time to practice what you learned. When it comes to web security the best plateform for you would be the [**Web Security Academy**](https://portswigger.net/web-security), it contains high-quality learning materials, interactive vulnerability labs, and video tutorials. You can learn at your own pace, wherever and whenever suits you. Best of all, **everything is free!**
+
+The Web Security Academy is a living resource that we'll continue updating with new material and labs (**Now it has more than 220 lab**), covering the latest developments in web security research. We very much hope that the Web Security Academy will fulfill the purpose that The Web Application Hacker's Handbook has done in the past, and help the next generation of web hackers acquire the skills and knowledge that they need.
+
+## Step 3 : Notetaking keeps you alert
+No one can deny that notetaking is the only way that will help you memorise what you've learned, I personally use [**Notion**](https://notion.so) for several reasons :
+ - [x] It's
