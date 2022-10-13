@@ -33,5 +33,21 @@ Now it's time to practice what you learned. When it comes to web security the be
 The Web Security Academy is a living resource that we'll continue updating with new material and labs (**Now it has more than 220 lab**), covering the latest developments in web security research. We very much hope that the Web Security Academy will fulfill the purpose that The Web Application Hacker's Handbook has done in the past, and help the next generation of web hackers acquire the skills and knowledge that they need.
 
 ## Step 3 : Notetaking keeps you alert
-No one can deny that notetaking is the only way that will help you memorise what you've learned, I personally use [**Notion**](https://notion.so) for several reasons :
- - [x] It's
+Keeping notes is one of the key aspects of penetration testing, I personally use [**Notion**](https://notion.so) for several reasons :
+ - [x] Flexibility of a Paper Notebook
+ - [x] Project and Task Management In One Place
+ - [x] Digital Brain to Store, Organize, Share information
+ - [x] Free for Personal Use
+ - [x] Accessible on mobile devices
+
+## Step 4 : Read writeups & Code, Play some CTFs
+After completing all the previous steps you should take a look at some real world scenarios, read POCs and writeups on [**Medium**](https://medium.com/@infosecwriteups) or [**hackerone**](https://hackerone.com/hacktivity) because when you read a writeup about a particular vulnerability or something else, you are reading it from someone else experience. 
+</br>
+You’ll sometimes come across the source code of an application you’re attacking. For example, you might be able to extract 
+JavaScript code from a web application, find 
+scripts stored on servers during the recon process or during a pentest you have access to source code  
+If so, you are in luck! Reviewing code is one of the 
+best ways to find vulnerabilities in applications. [**Souce Code Wiki**](https://securecode.wiki/) is a culmination of Secure Coding Practices for a wide range of languages. I read some PHP code there from time to time.
+The last thing that I'm planning to start and I know that it's highlly recommended is to start solving [**Pentesterlab**](https://pentesterlab.com/) as it contains some realistic scenarios and new CVES...
+
+Well, that was my simple methodology to learn web application vulnerabilities don't forget to share with your friends, happy hacking!
