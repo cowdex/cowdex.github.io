@@ -47,6 +47,6 @@ JavaScript code from a web application, find
 scripts stored on servers during the recon process or during a pentest you have access to source code  
 If so, you are in luck! Reviewing code is one of the 
 best ways to find vulnerabilities in applications. [**Souce Code Wiki**](https://securecode.wiki/) is a culmination of Secure Coding Practices for a wide range of languages. I read some PHP code there from time to time.
-The last thing that I'm planning to start and I know that it's highly recommended is to start solving [**Pentesterlab**](https://pentesterlab.com/) as it contains some realistic scenarios and new CVES...
+The last thing that I'm planning to start and I know that it's highly recommended is to start solving [**Pentesterlab**](https://pentesterlab.com/) as it contains some realistic scenarios and new CVEs...
 
 Well, that was my simple methodology to learn web application vulnerabilities don't forget to share with your friends, happy hacking!
