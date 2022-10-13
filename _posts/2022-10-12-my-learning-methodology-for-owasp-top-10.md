@@ -6,7 +6,9 @@ tags: [methodology , owasptop10, bugbounty, pentesting, webapplication]     # TA
 math: true
 mermaid: true
 ---
-Hello, to give something back to the infosec community I decided to start a new series on web application pen-testing. And this would be the first post. I was struggling to find an effective way to learn about web application vulnerabilities, once you start looking for some learning resources and methodologies you’ll be lost in between youtube videos, tweets, and even medium articles. I tried to put it all together and create my methodology. Here are my steps :
+Hello, to give something back to the infosec community I decided to start a new series on web application pen-testing. And this would be the first post.
+</br>
+As a Noob, I was struggling to find an effective way to learn about web application vulnerabilities, once you start looking for some learning resources and methodologies you’ll be lost in between Youtube videos, tweets, and even medium articles. I tried to put it all together and create my methodology. Here are my steps :
 
 ![Desktop View](/assets/img/web-roadmap.png){: width="972" height="589" }
 _Web Vulnerabilities Roadmap_
