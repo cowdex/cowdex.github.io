@@ -25,8 +25,6 @@ The book contains a wide range of techniques :
 - [x] Bypass protection mechanisms like input sanitization and blocklists to make your attacks succeed
 - [x] Automate tedious bug-hunting tasks with fuzzing and bash scripting
 
-![Desktop View](/assets/img/notion.png){: width="972" height="589" }
-_My Notion Page for Portswigger Academy Notes_
 <br>
 
 ## Step 3 : Get your hands dirty with labs
