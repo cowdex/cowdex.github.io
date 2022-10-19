@@ -9,6 +9,10 @@ mermaid: true
 Hello, to give something back to the infosec community I decided to start a new series on web application pen-testing. And this would be the first post.
 <br>
 As a Noob, I was struggling to find an effective way to learn about web application vulnerabilities, once you start looking for some learning resources and methodologies you’ll be lost in between Youtube videos, tweets, and even medium articles. I tried to put it all together and create my methodology. Here are my steps :
+
+![Desktop View](/assets/img/notion.png){: width="972" height="589" }
+_Web Vulnerabilities Roadmap_
+
 <br>
 ## Step 1 : Learn the basics in a fun way
 Picking up the initial idea about a web attack is an easy process if you have a guide walking you through it. when it comes to web vulnerabilities the best way to understand the basics is by watching a youtube video, [**PwnFunction**](https://youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ) is my best channel as he explains using illustrations and some simple examples which makes it beginner friendly. [**Intigriti**](https://www.youtube.com/c/intigriti/featured) also has some good explanation videos.
